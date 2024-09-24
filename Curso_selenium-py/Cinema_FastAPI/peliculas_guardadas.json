@@ -1,0 +1,203 @@
+[
+    {
+        "titulo": "TCF El Cuadro Perdido",
+        "clasificacion": "B",
+        "duracion": "91 min",
+        "idioma": "ORI",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "1:50 p.m.",
+            "4:15 p.m.",
+            "6:40 p.m.",
+            "9:00 p.m."
+        ]
+    },
+    {
+        "titulo": "TCF No Hagas Olas",
+        "clasificacion": "B15",
+        "duracion": "92 min",
+        "idioma": "ORI",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "2:30 p.m.",
+            "5:00 p.m.",
+            "7:30 p.m.",
+            "10:00 p.m."
+        ]
+    },
+    {
+        "titulo": "La Sustancia",
+        "clasificacion": "S/C",
+        "duracion": "140 min",
+        "idioma": "SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "3:20 p.m.",
+            "6:20 p.m.",
+            "9:25 p.m."
+        ]
+    },
+    {
+        "titulo": "Hellboy The Crooked Man",
+        "clasificacion": "S/C",
+        "duracion": "99 min",
+        "idioma": "SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "3:00 p.m.",
+            "7:45 p.m.",
+            "10:00 p.m.",
+            "Doblada al español",
+            "5:20 p.m."
+        ]
+    },
+    {
+        "titulo": "Parano-IA",
+        "clasificacion": "B",
+        "duracion": "84 min",
+        "idioma": "ESP, SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "4:10 p.m.",
+            "8:40 p.m."
+        ]
+    },
+    {
+        "titulo": "El Plan Del Asesino",
+        "clasificacion": "S/C",
+        "duracion": "114 min",
+        "idioma": "SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "1:15 p.m.",
+            "3:50 p.m.",
+            "6:25 p.m.",
+            "9:00 p.m."
+        ]
+    },
+    {
+        "titulo": "La Venganza De Cenicienta",
+        "clasificacion": "S/C",
+        "duracion": "85 min",
+        "idioma": "SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "2:00 p.m.",
+            "6:25 p.m."
+        ]
+    },
+    {
+        "titulo": "Casi El Paraíso",
+        "clasificacion": "B15",
+        "duracion": "113 min",
+        "idioma": "ESP",
+        "cine": "Perisur",
+        "horarios": [
+            "Doblada al español",
+            "2:40 p.m.",
+            "3:10 p.m.",
+            "5:10 p.m.",
+            "5:45 p.m.",
+            "7:40 p.m.",
+            "8:20 p.m.",
+            "10:10 p.m."
+        ]
+    },
+    {
+        "titulo": "Transformers Uno",
+        "clasificacion": "A",
+        "duracion": "104 min",
+        "idioma": "ESP, SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Doblada al español",
+            "5:15 p.m.",
+            "6:35 p.m.",
+            "6:40 p.m.",
+            "9:10 p.m.",
+            "10:20 p.m."
+        ]
+    },
+    {
+        "titulo": "No Hables Con Extraños",
+        "clasificacion": "B15",
+        "duracion": "110 min",
+        "idioma": "SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "2:35 p.m.",
+            "7:30 p.m."
+        ]
+    },
+    {
+        "titulo": "Un Paseo Con Madeleine",
+        "clasificacion": "B",
+        "duracion": "91 min",
+        "idioma": "SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "1:00 p.m.",
+            "3:15 p.m.",
+            "5:30 p.m.",
+            "7:45 p.m.",
+            "9:55 p.m."
+        ]
+    },
+    {
+        "titulo": "Beetlejuice Beetlejuice",
+        "clasificacion": "B",
+        "duracion": "105 min",
+        "idioma": "ESP, SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "2:20 p.m.",
+            "2:40 p.m.",
+            "4:55 p.m.",
+            "7:25 p.m.",
+            "7:50 p.m.",
+            "9:20 p.m.",
+            "9:50 p.m.",
+            "Doblada al español",
+            "2:55 p.m.",
+            "4:00 p.m.",
+            "5:25 p.m.",
+            "8:00 p.m.",
+            "10:30 p.m."
+        ]
+    },
+    {
+        "titulo": "Longlegs: Coleccionista de Almas",
+        "clasificacion": "B15",
+        "duracion": "101 min",
+        "idioma": "SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "5:05 p.m.",
+            "10:05 p.m."
+        ]
+    },
+    {
+        "titulo": "Alien: Romulus",
+        "clasificacion": "B",
+        "duracion": "119 min",
+        "idioma": "SUB",
+        "cine": "Perisur",
+        "horarios": [
+            "Original subtitulada",
+            "3:30 p.m.",
+            "6:30 p.m.",
+            "9:30 p.m."
+        ]
+    }
+]

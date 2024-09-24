@@ -12,8 +12,8 @@ class HelloWorld(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         options = webdriver.ChromeOptions()
-        goo = Service('primer_ejercicio\chromedriver.exe')
-        cls.driver = webdriver.Chrome(service=goo, options=options)
+        # Usar ChromeDriverManager para manejar automáticamente la instalación
+        cls.driver = webdriver.Chrome(service=Service('/Users/alex420s/Downloads/chromedriver-mac-arm64/chromedriver'), options=options)
         driver = cls.driver
         driver.implicitly_wait(10)
 #caso de prueba para automatizar tareas
