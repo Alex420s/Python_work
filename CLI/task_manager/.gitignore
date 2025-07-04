@@ -1,0 +1,4 @@
+venv
+integrations
+.env
+todos.db
